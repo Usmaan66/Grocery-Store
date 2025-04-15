@@ -16,5 +16,5 @@ Welcome to the Grocery Store Webpage project! This is a modern, responsive web a
 
 ## 🖼️ Preview
 
-![Screenshot of the homepage](./assets/SS2.jpeg)
+![Screenshot of the homepage](./assets/SS.jpeg)
 ![Screenshot of the homepage](./assets/SS1.jpeg)
